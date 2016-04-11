@@ -1,0 +1,1 @@
+web: bundle exec ruby sample_location_server.rb -p $PORT
